@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658023211527",
+    "project_id": "eduwaste",
+    "storage_bucket": "eduwaste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658023211527:android:2303f79dd67c51889340a2",
+        "android_client_info": {
+          "package_name": "com.example.eduwaste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVZkIYTC9lRS5mUA246fyGea74B9JHm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
